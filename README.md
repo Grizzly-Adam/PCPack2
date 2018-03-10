@@ -1,3 +1,8 @@
-# PC Pack 2
-PC Pack 1 made by Cross_over
+-----------------------------------
+------------PC Pack 2--------------
+Add-on Pack for Minetest Laptop Mod
+-----------------------------------
+
+PC Pack 2 made by Cross_over
 Assembled into pack by Grizzly Adam
+Recipes by Grizzly Adam
