@@ -1,3 +1,5 @@
+dofile(minetest.get_modpath('laptop_pc2')..'/craftrecipes.lua')
+
 -----BEGIN BELL TOWER-----
 laptop.register_hardware("laptop_pc2:bell_tower", {
 description = "Bell Tower",
